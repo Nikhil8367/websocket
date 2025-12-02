@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-      "start": "node server.js"
+      "start": "npx y-websocket"
     },
     "dependencies": {
       "express": "^4.18.2",
@@ -11,4 +11,5 @@
       "y-websocket": "1.4.5"
     }
   }
+
   
